@@ -1,0 +1,38 @@
+[
+  {
+    "title": "IMC Prosperity 3",
+    "description": "Applied advanced statistical techniques in a 5-person team during IMC Trading’s global competition, including cointegration and Ornstein-Uhlenbeck modeling for mean-reversion, Black-Scholes-based option pricing, IV curve fitting, and delta-hedging to build robust pairs, basket, and options arbitrage strategies. Developed a custom Python visualiser to automate stationarity checks and monitor real-time PnL, contributing to a 1st place QLD finish, 9th AU, 60th algorithmic globally out of 15,000 teams).",
+    "tags": [
+      "Python",
+      "Git",
+      "Jupyter",
+      "Sk-Learn"
+    ]
+  },
+  {
+    "title": "ValoStats",
+    "description": "Led a team of 6 engineers to develop ValoStats, a full-stack web application using Python and Streamlit that integrates RIOT’s API for real-time match data; Kaggle dataset was pulled and featured engineered while implemented Gradient Boosting and Logistic Regression ensemble methods to accurately predict match outcomes with 90",
+    "tags": [
+      "Python",
+      "Streamlit",
+      "Jupyter"
+    ]
+  },
+  {
+    "title": "AlgoJam",
+    "description": "Coordinated a team of 3 to analyze and strategize financial instruments for the UQ Fintech Algothon by developing ARIMA time-series models and pair trading strategies, applying exponential moving averages to optimize asset performance, and securing third place in the competition sponsored by IMC Trading",
+    "tags": [
+      "Python",
+      "Git"
+    ]
+  },
+  {
+    "title": "SkinDetect",
+    "description": "Designed and implemented a Siamese network with ResNet50 and triplet loss in PyTorch to classify benign and malignant skin lesions for the ISIC 2020 Challenge, achieving 95",
+    "tags": [
+      "Python",
+      "Git",
+      "Pytorch"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "role": "Data Science Intern",
+    "company": "Thiess",
+    "period": "Dec. 2024 -- Feb.2025",
+    "summary": "Developed a statistical learning state machine using Gaussian Mixture Models and IMM-EKF for real-time truck operation classification and sensor fusion, enhancing reliability and reducing costs by 20% . Developed a linear model to correct timestamp misalignment, ensuring synchronisation across data sources. Optimised GMM performance via BIC, AIC, Elbow Method, Calinski-Harabasz Index, and the EM algorithm",
+    "highlights": [
+      "Developed a statistical learning state machine using Gaussian Mixture Models and IMM-EKF for real-time truck operation classification and sensor fusion, enhancing reliability and reducing costs by 20% .",
+      "Developed a linear model to correct timestamp misalignment, ensuring synchronisation across data sources. Optimised GMM performance via BIC, AIC, Elbow Method, Calinski-Harabasz Index, and the EM algorithm"
+    ]
+  },
+  {
+    "role": "Lead Software Engineer",
+    "company": "UQ Racing",
+    "period": "Nov. 2024 -- June 2025",
+    "summary": "Led ROS-to-ROS2 migration in Python and C++, integrating TensorRT-quantised YOLOv11 for faster, more accurate cone detection in real-time autonomous navigation. Researched and experimented with advanced sensor fusion techniques (EKF, UKF) and FAST-LIO SLAM to produce high-fidelity simulation maps of test tracks.",
+    "highlights": [
+      "Led ROS-to-ROS2 migration in Python and C++, integrating TensorRT-quantised YOLOv11 for faster, more accurate cone detection in real-time autonomous navigation.",
+      "Researched and experimented with advanced sensor fusion techniques (EKF, UKF) and FAST-LIO SLAM to produce high-fidelity simulation maps of test tracks."
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "UQ Racing",
+    "period": "Feb. 2024 -- Nov. 2024",
+    "summary": "Developed path planning algorithms using a perception stack integrating YOLOv8, Lidar, and INS data with Delaunay Triangulation for track driving.",
+    "highlights": [
+      "Developed path planning algorithms using a perception stack integrating YOLOv8, Lidar, and INS data with Delaunay Triangulation for track driving."
+    ]
+  },
+  {
+    "role": "Casual Academic Tutor",
+    "company": "University of Queensland",
+    "period": "June. 2025 -- Present",
+    "summary": "COMP3710 (Pattern Recognition and Analysis): Instructed 20+ students weekly on machine and deep learning models and techniques",
+    "highlights": [
+      "COMP3710 (Pattern Recognition and Analysis): Instructed 20+ students weekly on machine and deep learning models and techniques"
+    ]
+  },
+  {
+    "role": "Student Services Ambassador",
+    "company": "University of Queensland",
+    "period": "Jan. 2025 -- Present",
+    "summary": "Assisted students with selection of courses and navigating UQ's proprietary software for enrollments, while representing the university as one of 30 ambassadors",
+    "highlights": [
+      "Assisted students with selection of courses and navigating UQ's proprietary software for enrollments, while representing the university as one of 30 ambassadors"
+    ]
+  },
+  {
+    "role": "Future Students Ambassador",
+    "company": "University of Queensland",
+    "period": "Mar. 2025 -- Present",
+    "summary": "Represented the university and EAIT faculty in school expos, talks and careers fairs to guide prospective students in degree selection",
+    "highlights": [
+      "Represented the university and EAIT faculty in school expos, talks and careers fairs to guide prospective students in degree selection"
+    ]
+  }
+]
